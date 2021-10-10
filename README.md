@@ -1,6 +1,7 @@
 # SQL applied to data science IBM
 
 ## Course description
+
 Introducing the concepts of relational databases and learn to apply it using SQL language, on a data science environment using Jupyter notebooks.
 
 Learn how to use and apply the powerful language of SQL to better communicate and extract data from databases - a must for anyone working in the data science field.
@@ -11,7 +12,7 @@ Learn how to use and apply the powerful language of SQL to better communicate an
 - Advanced SQL commands
 - Database access using Python/Jupyter Notebooks.
 
-## course outline
+## Course outline
 
 - Module 1: Introduction to databases.
 - Module 2: Basic SQL.
@@ -25,4 +26,3 @@ Learn how to use and apply the powerful language of SQL to better communicate an
 1. 5 tests (75%)
 2. Final assigment (25%)
 3. The minimum grade to pass the course is 70%.
-
