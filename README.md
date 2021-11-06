@@ -16,12 +16,12 @@ Learn how to use and apply the powerful language of SQL to improve the way you d
 ## Course outline
 
 - Module 1: [Introduction to databases](./module1).
-- Module 2: [Basic SQL.
-- Module 3: String patterns, ranges, sorting and grouping.
-- Module 4: Functions, subqueries, multiple tables.
-- Module 5: Accesing databses using python.
-- Module 6: final assigment.
-- Module 7: (Optional module) Join Operator
+- Module 2: [Basic SQL](./module2).
+- Module 3: [String patterns, ranges, sorting and grouping](./module3)
+- Module 4: [Functions, subqueries, multiple tables](./module4)
+- Module 5: [Accesing databses using python](./module5)
+- Module 6: [Final assigment](./module6)
+- Module 7: [(Optional module) Join Operator](./module7)
 
 ## Calification system
 
