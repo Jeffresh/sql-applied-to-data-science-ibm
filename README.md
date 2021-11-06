@@ -2,24 +2,26 @@
 
 ## Course description
 
-Introducing the concepts of relational databases and learn to apply it using SQL language, on a data science environment using Jupyter notebooks.
+Introducing the concepts of relational databases and learn to apply it using SQL language, on a data science environment using Jupyter notebooks and D2b IBM cloud instances.
 
-Learn how to use and apply the powerful language of SQL to better communicate and extract data from databases - a must for anyone working in the data science field.
+Learn how to use and apply the powerful language of SQL to improve the way you deal with/extract data from databases - a must for anyone working in the data science field.
 
 ## Course objectives
 
 - Relational databases fundamentals CRUD operations.
 - Advanced SQL commands
 - Database access using Python/Jupyter Notebooks.
+- Basic Use of D2b IBM cloud service.
 
 ## Course outline
 
-- Module 1: Introduction to databases.
-- Module 2: Basic SQL.
+- Module 1: [Introduction to databases](./module1).
+- Module 2: [Basic SQL.
 - Module 3: String patterns, ranges, sorting and grouping.
 - Module 4: Functions, subqueries, multiple tables.
 - Module 5: Accesing databses using python.
 - Module 6: final assigment.
+- Module 7: (Optional module) Join Operator
 
 ## Calification system
 
