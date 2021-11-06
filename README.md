@@ -28,3 +28,7 @@ Learn how to use and apply the powerful language of SQL to improve the way you d
 1. 5 tests (75%)
 2. Final assigment (25%)
 3. The minimum grade to pass the course is 70%.
+
+## Status: Completed
+
+[badge link](https://www.credly.com/badges/d85fe7dc-7cc1-48da-82e9-c8deab25adeb/public_url)
